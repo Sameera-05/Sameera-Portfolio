@@ -11,7 +11,7 @@ Welcome to my personal portfolio site — a modern, responsive, and animated sho
 
 ## 🚀 Live Demo
 
-Visit the live site here: [Sameera's Portfolios](https://sameera-portfolio-mu.vercel.app/)
+Visit the live site here: [Sameera's Portfolio](https://sameera-portfolio-mu.vercel.app/)
 
 ---
 
